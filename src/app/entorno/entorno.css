@@ -1,0 +1,27 @@
+.entorno {
+  border: 3px solid var(--color-entorno);
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: color-mix(in srgb, var(--color-entorno) 12%, white);
+  text-align: center;
+}
+
+.etiqueta {
+  display: inline-block;
+  padding: 0.25rem 1rem;
+  border-radius: 999px;
+  background: var(--color-entorno);
+  color: white;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+h2 {
+  color: var(--color-entorno);
+  margin: 0.75rem 0 0.5rem;
+}
+
+p {
+  margin: 0;
+  color: #374151;
+}

@@ -1,0 +1,27 @@
+.contenedor {
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgb(0 0 0 / 0.08);
+}
+
+h1 {
+  margin-top: 0;
+  text-align: center;
+  color: #111827;
+}
+
+.bienvenida {
+  text-align: center;
+  color: #4b5563;
+  margin-bottom: 2rem;
+}
+
+footer {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
