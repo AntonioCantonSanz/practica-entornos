@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 export class Entorno {
   // Datos del entorno: cada rama (main, qa-pending, uat-pending) tiene su propia versión.
-  protected readonly codigo = 'PROD';
-  protected readonly mensaje = 'Entorno de producción';
-  protected readonly color = '#16a34a';
+  protected readonly codigo = 'UAT';
+  protected readonly mensaje = 'Entorno de aceptación UAT';
+  protected readonly color = '#2563eb';
 }
